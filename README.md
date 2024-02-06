@@ -9,3 +9,16 @@
   **5.** To examine new selling products in 2021 (https://github.com/ErnestaRoschelle/Sales-Analytics-Business-Report/blob/main/New%20products%202021.pdf)
   **6.** To find out the performance of _[sales Division wise](https://github.com/ErnestaRoschelle/Sales-Analytics-Business-Report/blob/main/Division%20level%20report.pdf)_
   **7.** To find out _[top 5 performing countries](https://github.com/ErnestaRoschelle/Sales-Analytics-Business-Report/blob/main/top%205%20countries.pdf)_
+
+**Steps Involved in building this report:
+Data Extraction 
+Data Transformation in Power Query Editor
+Data Loading 
+Building Mock up Report
+Listing the components from the Mock up Report
+Tangible Action Points
+Data Modelling in Power Pivot
+Building Report in Pivot Table using DAX
+Beautify the Report for User Readability using Conditional Formatting**
+
+
