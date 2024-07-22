@@ -20,7 +20,24 @@
 
 ![Screenshot 2024-07-22 205128](https://github.com/user-attachments/assets/06025cf6-3c10-4a6d-abcc-2e86304534a6)
 
-Data Source : CSV files
+## Data Source : CSV files
+
+## Data Transformation :
+
+1.Use First Row as Headers
+
+2.Check for errors using Column distribution and Column quality option - dim_customer,dim_market,
+
+3.Check for duplicates by looking at the unique and distinct values in all dimension tables.For example: dim_customer table has customer_code which is a primary key and should not contain duplicates
+
+4.Replaced mispelled customer_name in dim_customer table 
+
+5.Replaced values in market column 'nan' with 'NA' in dim_market table
+
+6.Replaced negative quantity values by using absolute option
+
+
+
 
  ## Project objective:
 
