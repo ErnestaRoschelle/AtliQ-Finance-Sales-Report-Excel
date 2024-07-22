@@ -1,6 +1,6 @@
 # AtliQ Hardware-Sales & Finance Analytics 
 
-## **AtliQ Hardware Business Model**
+## AtliQ Hardware Business Model:
 
 *AtliQ is a hardware company which sells hardware such as keyboards,mouse,PC,printers etc to consumers.
 
@@ -12,9 +12,12 @@
 
 *AtliQ distributes through 3 channels - Retailer,Direct Stores,Distributor
 
+## Business Requirement:
+
+ Atliq Hardware is a company moving towards advanced analytics .Create Sales and Finance Analytics Report for data-informed decision making
 
 
- ## **Project objective:** 
+ ## Project objective:
 
   **1.** Create a _[Customer Performance Report](https://github.com/ErnestaRoschelle/Sales-Analytics-Business-Report/blob/main/customer%20performance%20net%20sales.pdf)_
   
