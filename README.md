@@ -16,6 +16,11 @@
 
  Atliq Hardware is a company moving towards advanced analytics .Create Sales and Finance Analytics Report for data-informed decision making
 
+## ETL in Excel:
+
+![Screenshot 2024-07-22 205128](https://github.com/user-attachments/assets/06025cf6-3c10-4a6d-abcc-2e86304534a6)
+
+Data Source : CSV files
 
  ## Project objective:
 
