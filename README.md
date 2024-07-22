@@ -1,4 +1,16 @@
-# Sales-Analytics-Business-Report
+# AtliQ Hardware-Sales & Finance Analytics 
+
+## **AtliQ Hardware Business Model**
+
+*AtliQ is a hardware company which sells hardware such as keyboards,mouse,PC,printers etc to consumers.
+
+*AtliQ Hardware sends their products to Warehouses and which is shipped to various locations.
+
+*AtliQ's products are avilable through platforms like Croma, Best Buy (Brick & Mortar) and Amazom (E-Commerce)
+
+*AtliQ has their own store - AtliQ Exclusive and AltiQ e store
+
+*AtliQ distributes through 3 channels - Retailer,Direct Stores,Distributor
 
 
 
