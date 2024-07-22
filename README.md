@@ -1,5 +1,7 @@
 # Sales-Analytics-Business-Report
 
+
+
  ## **Project objective:** 
 
   **1.** Create a _[Customer Performance Report](https://github.com/ErnestaRoschelle/Sales-Analytics-Business-Report/blob/main/customer%20performance%20net%20sales.pdf)_
