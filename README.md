@@ -58,6 +58,32 @@ Connecting primary keys of dimension tables with the foreign keys of fact tables
 
 ![Screenshot 2024-07-23 130821](https://github.com/user-attachments/assets/96f59320-9c08-4381-8961-272ab8a3c73c)
 
+-Created dim_date table (Fiscal_year) and connected to fact table 
+  *Used Date.Addmonth() and Date.year() funcions to add 4 months to get the respective fiscal year and to extract year from the date respectively
+
+  
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
  ## Project objective:
 
