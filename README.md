@@ -26,7 +26,7 @@
 
 1.Use First Row as Headers
 
-2.Check for errors using Column distribution and Column quality option - dim_customer,dim_market,
+2.Check for errors using Column distribution and Column quality option - **dim_customer,dim_market,dim_product ,fact_sales_monthly**
 
 3.Check for duplicates by looking at the unique and distinct values in all dimension tables.For example: dim_customer table has customer_code which is a primary key and should not contain duplicates
 
@@ -36,7 +36,27 @@
 
 6.Replaced negative quantity values by using absolute option
 
+## Creating plan for report creation:
 
+![Screenshot 2024-07-23 124643](https://github.com/user-attachments/assets/0d560dfc-1f65-429b-a372-95a88919114d)
+
+Listing the componenets:
+
+1.Net Sales
+
+2.Year
+
+3.Division
+
+4.Region
+
+5.Country
+
+## Data Modelling:
+
+Connecting primary keys of dimension tables with the foreign keys of fact tables
+
+![Screenshot 2024-07-23 130821](https://github.com/user-attachments/assets/96f59320-9c08-4381-8961-272ab8a3c73c)
 
 
  ## Project objective:
