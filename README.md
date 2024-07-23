@@ -14,7 +14,13 @@
 
 ## Business Requirement:
 
- Atliq Hardware is a company moving towards advanced analytics .Create Sales and Finance Analytics Report for data-informed decision making
+ Atliq Hardware is a company moving towards advanced analytics.Create Sales and Finance Analytics Report for data-informed decision making
+
+## Why the need for Sales Analytics Report
+
+*To analyse discounts,promotions and performance bonus to retailers/customers
+
+*To expand the purchase to various locations based on sales.If a product is performing well in a particular region then expansion of store can be considered in that region
 
 ## ETL in Excel:
 
@@ -60,30 +66,6 @@ Connecting primary keys of dimension tables with the foreign keys of fact tables
 
 -Created dim_date table (Fiscal_year) and connected to fact table 
   *Used Date.Addmonth() and Date.year() funcions to add 4 months to get the respective fiscal year and to extract year from the date respectively
-
-  
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 
  ## Project objective:
 
