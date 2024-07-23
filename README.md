@@ -67,6 +67,14 @@ Connecting primary keys of dimension tables with the foreign keys of fact tables
 -Created dim_date table (Fiscal_year) and connected to fact table 
   *Used Date.Addmonth() and Date.year() funcions to add 4 months to get the respective fiscal year and to extract year from the date respectively
 
+  ## DAX Measures used:
+
+  1.CALCULATE
+
+  2.DIVIDE
+
+  3.SUM
+
  ## Project objective:
 
   **1.** Create a _[Customer Performance Report](https://github.com/ErnestaRoschelle/Sales-Analytics-Business-Report/blob/main/customer%20performance%20net%20sales.pdf)_
